@@ -16,7 +16,16 @@
   <a href="https://github.com/TheBigWazz/Pineapple-Fried/blob/main/README.md#what-is-pineapple-fried">What is Pinneapple Fried?</a> | <a href="https://github.com/TheBigWazz/Pineapple-Fried/blob/main/README.md#features-included">Features Included</a> | <a href="https://github.com/TheBigWazz/Pineapple-Fried/blob/main/README.md#installation">Installation</a> | <a href="https://github.com/TheBigWazz/Pineapple-Fried/blob/main/README.md#faq">FAQ</a> | <a href="https://github.com/TheBigWazz/Pineapple-Fried/blob/main/README.md#acknowledgements">Acknowledgements</a>
 </p>
 
+# Sadly, I'm no longer updating this theme. 
+### It was a great run, but I've decided to focus on browser agnostic themes going forward. 
+### Thanks to everyone that used Pineapple Fried. Your support and feedback were what made this project so enjoyable to create, and I appreciate you all. 
+### 💜 Wazz 
+
+<br>
+
 https://github.com/user-attachments/assets/ce6c3103-6adb-4190-86f6-8be656070632
+
+
 
 ## What is Pineapple Fried?
 Pineapple Fried is a pack of customizations (a 'rice') made for [Zen Browser](https://zen-browser.app).
